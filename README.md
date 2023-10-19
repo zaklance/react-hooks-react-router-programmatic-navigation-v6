@@ -1,4 +1,4 @@
-# Programmatic Navigation
+# Programmatic Navigation Code-Along
 
 ## Learning Goals
 
